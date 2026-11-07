@@ -1,4 +1,4 @@
-query_id: 1794014953609
+wasquery_id: 1794014953609
 amount: "533500"
 destination: 0:59baccfe6657703f73611d978a02abd1ea4c2631cf1ec5eeb825b5157b2ae129
 response_destination: 0:2d08d27e0ca64ece6011c3cee1602bd85de9f0595883efbc75f52298d02cd064
